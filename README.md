@@ -25,8 +25,7 @@ Some Python packages and frameworks I'm familiar with: Selenium, Beautiful Soup,
 
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,html,css,bootstrap,regex,selenium,java,maven,sqlite,postgres,postman,git,docker,azure,aws,gitlab,github,linux,vscode)](https://skillicons.dev)
 
-### Stats
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=sojourn99)](https://github.com/sojourn99/github-readme-stats)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=sojourn99&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/sojourn99/github-readme-stats)
 
 ![bottom banner](/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d39302673656374696f6e3d666f6f746572.svg)
 
