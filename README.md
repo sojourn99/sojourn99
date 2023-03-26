@@ -1,6 +1,7 @@
+![top banner](/assets/images/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d393026636f6c6f723d6772616469656e74.svg)
 ### Hey there! 👋
 
-I'm Alex - I'm a Software developer/DevOps engineer. 
+**I'm Alex** - I'm a Software developer/DevOps engineer. 
 
 🌱 Currently I'm learning Python in all kinds of applications: 
 - Web development
@@ -21,6 +22,8 @@ Some Python packages and frameworks I'm familiar with: Selenium, Beautiful Soup,
 - Linux
 
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,html,css,bootstrap,regex,selenium,java,maven,sqlite,postgres,postman,git,docker,azure,aws,gitlab,github,linux,vscode)](https://skillicons.dev)
+
+![bottom banner](/assets/images/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d39302673656374696f6e3d666f6f746572.svg)
 
 <!--
 **sojourn99/sojourn99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
