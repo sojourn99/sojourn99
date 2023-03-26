@@ -17,10 +17,10 @@ Some Python packages and frameworks I'm familiar with: Selenium, Beautiful Soup,
 - Containerization (Docker)
 - Infrastructure as Code (Terraform)
 - CI/CD platforms (Gitlab, Azure DevOps, Github)
-- Scripting (Python, Bash)
+- Scripting (Python)
 - Linux
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,sql,git,docker,azure,aws,terraform,gitlab,github,bash,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,html,css,bootstrap,regex,selenium,java,maven,sqlite,postgres,postman,git,docker,azure,aws,gitlab,github,linux,vscode)](https://skillicons.dev)
 
 <!--
 **sojourn99/sojourn99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
