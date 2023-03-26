@@ -21,7 +21,7 @@ Some Python packages and frameworks I'm familiar with: Selenium, Beautiful Soup,
 - Scripting (Python)
 - Linux
 
-###My Skills
+### My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,html,css,bootstrap,regex,selenium,java,maven,sqlite,postgres,postman,git,docker,azure,aws,gitlab,github,linux,vscode)](https://skillicons.dev)
 
