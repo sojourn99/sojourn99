@@ -11,7 +11,7 @@ and thanks for visiting my GitHub account! My name is Alex, and I'm a Software d
 - GUIs and Desktop applications
 - Games
 
-Some Python packages and frameworks I work with: Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, Matplotlib, pytest, FastAPI
+Some Python packages and frameworks I work with: Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, Matplotlib, pytest, FastAPI, SQLAlchemy, Alembic.
 
 🔭 I'm also continuously working on DevOps skills:
 - Cloud platforms (Azure, AWS)
