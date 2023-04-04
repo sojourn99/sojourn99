@@ -11,7 +11,7 @@
 - GUIs and Desktop applications
 - Games
 
-Some Python packages and frameworks I'm familiar with: Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, Matplotlib, pytest, FastAPI
+Some Python packages and frameworks I work with: Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, Matplotlib, pytest, FastAPI
 
 🔭 I'm also continuously working on DevOps skills:
 - Cloud platforms (Azure, AWS)
