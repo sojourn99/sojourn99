@@ -29,12 +29,12 @@ Some Python packages and frameworks I work with: Selenium, Beautiful Soup, Reque
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sojourn99&hide=javascript,html,css,jupyter%20notebook,scss,procfile)](https://github.com/sojourn99/github-readme-stats)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Raushan1234567&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sojourn99&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Raushan1234567&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sojourn99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=Raushan1234567&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sojourn99&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![bottom banner](/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d39302673656374696f6e3d666f6f746572.svg)
 
