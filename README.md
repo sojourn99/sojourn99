@@ -29,7 +29,7 @@ Some Python packages and frameworks I work with: Selenium, Beautiful Soup, Reque
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sojourn99&hide=javascript,html,css,jupyter%20notebook,scss,procfile)](https://github.com/sojourn99/github-readme-stats)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sojourn99&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sojourn99&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sojourn99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
