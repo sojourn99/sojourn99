@@ -1,4 +1,3 @@
-![top banner](/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d393026636f6c6f723d6772616469656e74.svg)
 ### Hey there 👋
 
 and thanks for visiting my GitHub account! My name is Alex, and I'm a Software developer/DevOps engineer based in the Netherlands. 
@@ -34,7 +33,6 @@ Some Python packages and frameworks I work with: Selenium, Beautiful Soup, Reque
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sojourn99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![bottom banner](/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d39302673656374696f6e3d666f6f746572.svg)
 
 <!--
 **sojourn99/sojourn99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
